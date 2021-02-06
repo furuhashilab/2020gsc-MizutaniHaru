@@ -1,9 +1,9 @@
 ## 2020古橋研究室ゼミ論用レポジトリ
 
-青山学院大学 地球社会共生学部 地球社会共生学科
-水谷陽／みずたにはる
-学生番号　1A116180
-指導教員　古橋 大地教授
+青山学院大学 地球社会共生学部 地球社会共生学科  
+水谷陽／みずたにはる  
+学生番号　1A116180  
+指導教員　古橋 大地教授  
 
 ## 概要
 
@@ -35,15 +35,20 @@ EX）Airbnbのが帰国人客に対する非難経路や方法のマニュアル
 ## 研究方法
 
 
-
-
 ## 結果
 
 ## 議論
 
 
+## 資料
+#### ・プレゼン資料
 
-#### 参考資料
+#### ・進歩管理用プロジェクト
+https://github.com/furuhashilab/sotsuron2020/projects/22  
+#### ・Strava
+https://www.strava.com/activities/4715374997?share_sig=862Z7NTL1612574507&utm_medium=social&utm_source=android_share
+
+#### ・参考資料
 [東京現状対策](https://www.toshiseibi.metro.tokyo.lg.jp/keikaku/shingikai/pdf/riyou02_09.pdf)  
 [著しく危険な密集市街地](https://www.mlit.go.jp/common/000226568.pdf )   
 [墨田区の現状対策](https://www.city.sumida.lg.jp/kuseijoho/sumida_info/houkokusyo/funenka1903.files/1syou.pdf)  
