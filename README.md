@@ -33,12 +33,21 @@ EX）Airbnbのが帰国人客に対する非難経路や方法のマニュアル
 ・file:///C:/Users/haruh/Downloads/IPSJ-DPSWS2016019.pdf
 
 ## 研究方法
+###### 使用ソフト
+・Strava  
+・OSM  
+
+Stravaを用いて京島地域をフィールド調査した後、OSMでのマッピング個所を選定。  
+OSM の iD（ブラウザー内エディタ）で編集する。
 
 
 ## 結果
 
 ## 議論
+###### Strava
+実際に街を歩き、現地のお店に入り様々な人のお話を伺った。
 
+###### OSM
 
 ## 資料
 #### ・プレゼン資料
@@ -47,7 +56,8 @@ EX）Airbnbのが帰国人客に対する非難経路や方法のマニュアル
 https://github.com/furuhashilab/sotsuron2020/projects/22  
 #### ・Strava
 https://www.strava.com/activities/4715374997?share_sig=862Z7NTL1612574507&utm_medium=social&utm_source=android_share
-
+#### ・OSM
+https://www.openstreetmap.org/edit#map=19/35.71519/139.82188
 #### ・参考資料
 [東京現状対策](https://www.toshiseibi.metro.tokyo.lg.jp/keikaku/shingikai/pdf/riyou02_09.pdf)  
 [著しく危険な密集市街地](https://www.mlit.go.jp/common/000226568.pdf )   
